@@ -1,0 +1,19 @@
+{
+    "name": "chen/qr-generator",
+    "description": "Generador de códigos QR mediante formulario",
+    "type": "project",
+    "require": {
+        "endroid/qr-code": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chen\\QrGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minghai Chen",
+            "email": "chenminghai79@gmail.com"
+        }
+    ]
+}
